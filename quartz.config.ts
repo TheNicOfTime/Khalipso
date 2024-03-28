@@ -38,14 +38,14 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#0d1137", // deep space blue
+          lightgray: "#1f4287", // galaxy blue
+          gray: "#278ea5", // nebula teal
+          darkgray: "#21e6c1", // alien green
+          dark: "#1f3c88", // starlight blue
+          secondary: "#f7217b", // neon pink
+          tertiary: "#6639a6", // cosmic purple
+          highlight: "rgba(33, 230, 193, 0.15)", // translucent alien green
         },
       },
     },

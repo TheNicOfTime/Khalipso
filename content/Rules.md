@@ -1,5 +1,5 @@
 ![[StarsWithoutNumberRevised-DeluxeEdition-011418_(32633169).pdf]]
-
+for rulers
 # Overview
 This campaign will use a combination of Stars Without Number and Starfinder rpg rules. For the most part, Starfinder will be the dominant game we will be using. Starfinder is based off of Pathfinder, and is somewhat similar in mechanics to DnD. However, we will be disregarding most of the lore from Starfinder and using Stars Without Number for the world and lore. This might be a little wonky, so if there is specific lore that you read in Starfinder that you think would be important to your character let me know and we can probably work it into the setting.
 

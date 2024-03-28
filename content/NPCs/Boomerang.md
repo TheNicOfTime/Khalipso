@@ -1,4 +1,6 @@
 # Biography
+Cool Guy
+
 He is a handler for the PCs for [[Tiandi]]. His character is heavily based on Frisbee from Redline. He is a golbin.
 
 He had three previous crews before the PC crews, all were killed horrifically. None were directly his fault.

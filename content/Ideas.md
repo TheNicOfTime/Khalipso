@@ -1,1 +1,0 @@
-Our law supersedes Murphy's.

@@ -1,3 +1,12 @@
+---
+tags:
+  - contract
+Reputation: +5 The Poleus Bloc
+Credits: "3000"
+Requirements: 2-4
+Client: "[[Thucalan Royal Family]]"
+Transport Requirements: None
+---
 Title: Bodyguards for hire
 
 Client: [[Thucalan Royal Family]]

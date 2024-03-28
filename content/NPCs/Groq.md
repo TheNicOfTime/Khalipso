@@ -1,1 +1,0 @@
-Groq is a large Nuar, a minatour like creature in [[Skidds]]' crew. 

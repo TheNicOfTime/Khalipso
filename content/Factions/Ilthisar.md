@@ -1,1 +1,0 @@
-Mercenary group from [[Pino]].

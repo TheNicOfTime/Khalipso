@@ -1,1 +1,0 @@
-Under the sphere of influence of the [[[The Federation of United Planets|Federation]]. 

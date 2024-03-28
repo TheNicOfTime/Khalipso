@@ -1,1 +1,0 @@
-An eccentric billionaire archeologist playboy. Is wanted by [[Eberswalde]] for his knowledge of ancient [[Terran Mandate]] tech so they can delve deeper into the [[Svallga#Sanctum Bundesarchiv]] 

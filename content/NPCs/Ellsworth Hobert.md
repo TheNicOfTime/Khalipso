@@ -1,1 +1,0 @@
-Son of the captain of the Planetary Guard, learned of the [[Unmistakeable Stench of Failure]] arrive on [[Svallga]] from him. Leads the [[Frenchies]] in secret from him, calls himself Maximillien Robespierre as the leader of the [[Frenchies]]. Wears a rabbit mask, long flowing blue revolutionary coat, and a powdered wig. Human.

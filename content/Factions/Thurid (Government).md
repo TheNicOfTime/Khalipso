@@ -1,1 +1,0 @@
-A government/planet that operates as a proxy state for [[The Poleus Bloc]]. On [[Thurid]]

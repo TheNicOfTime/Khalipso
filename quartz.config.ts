@@ -28,14 +28,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#0d1137", // deep space blue
+          lightgray: "#1f4287", // galaxy blue
+          gray: "#278ea5", // nebula teal
+          darkgray: "#21e6c1", // alien green
+          dark: "#1f3c88", // starlight blue
+          secondary: "#f7217b", // neon pink
+          tertiary: "#6639a6", // cosmic purple
+          highlight: "rgba(33, 230, 193, 0.15)", // translucent alien green
         },
         darkMode: {
           light: "#0d1137", // deep space blue

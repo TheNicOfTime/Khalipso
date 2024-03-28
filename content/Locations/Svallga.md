@@ -1,11 +1,6 @@
 # Koblenz
 
 Capital of the [[The Federation of United Planets|Federation]]. A city built on top of and within the remnants of an ancient [[Terran Mandate]] city. This gives the city a unique aesthetic: modern/sci-fi looking buildings and skyscrapers dominate the majority of the skyline, but nestled between them are much older buildings of intricate stonework, metalwork, and gothic stylings that stick out strikingly in the city. There are also a few of these stone buildings that are massive while retaining the artistry, feats of civic engineering and focus not seen for centuries. 
-
-Description for players:
-
-`As you fly down to the city of Koblenz, a city appears near the coast of one of the seas. A modestly large city, housing maybe a million inhabitants, it makes an unmistakable impression. Modern Federation style buildings and skyscrapers dominate a majority of the space, with their sleek glass and steel frames and clean angular faces. However, what draws your attention are the other type of structure nestled between the modern chic throughout the city: ancient buildings of intricate stonework and metal, they stick out strikingly in between the newer construction. Buildings built centuries ago by the Terran Mandate, all are much more ornately designed than the rest of the city. Two of these grab your attention more than others: a massive wall that surrounds a majority of the city, and a massive building sitting on top of a hill next to the shipyards. It has a central building with a tapered roof, with two towers jutting up higher than anything else in the city. It is obviously more ornate than even the other Mandate buildings, with a massive number of buttresses, statues, and other detailing covering its surface.`
-
 ## Sanctum Bundesarchiv
 
 A massive archive built by the [[Sector Information#Terran Mandate|Terran Mandate]] underground in a massive cavern. The full schematics and functioning of it have been lost to time, and no one really understands the full extent of its capabilities. The Federation regularly sends in squads to try and map out the archive, but it is dangerous, slow going, and doesn't have a lot of political support. The archive rooms are constantly shifting, and whole rooms can be lost in the bowels of the archive. Servitors patrol the archives and make sure no one messes with the archives. 

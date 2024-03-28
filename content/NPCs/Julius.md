@@ -1,0 +1,1 @@
+A Vesk data analyst for the [[Sector Information#The Federation of United Planets Federation or FUP]], being locked up on suspicion for being a Bloc double agent. He is not. He worked for a small part of the Federation intelligence agency that looks into old mandate tech. Knows some about the [[Eberswalde DEEP Well sites]]. 

@@ -1,0 +1,1 @@
+A group of aristocratic teenagers who found a bunch of literature about the French revolution that was pretty old and fucked up and decided to become makeshift revolutionaries after their idol, [[Grundle Deetrix]]. Leader is [[Ellsworth Hobert]], calls himself Maximilien Robespierre. 

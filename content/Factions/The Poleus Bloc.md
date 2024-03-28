@@ -1,0 +1,1 @@
+Has an edge in magic to [[The Federation of United Planets]].

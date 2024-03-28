@@ -1,0 +1,1 @@
+A Bantrid in the employ of the [[Fyre Syndicate]]. Talks very strangely, is very excitable about the world. Constantly rolls back and forth while talking excitedly. Acts as a negotiator, contact, and front man for the smuggling ring. 

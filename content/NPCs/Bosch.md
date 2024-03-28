@@ -1,0 +1,11 @@
+The preeminant Bloc scientist on Math Drives. His name is just Jacob Bosch. 
+
+He is an old man with a heavy accent, long white beard, and a bald head. He wears a standard white lab coat with clean lines. 
+
+The [[The Federation of United Planets|Federation]] had abducted him and some other [[The Poleus Bloc]] scientists to work on the Shard and investigate how to draw more power out of it using Solarians. The Shard is a massive [[math drive]], 100x larger than the two known math drives in the sector. It put out an immense amount of energy, enough to power just about anything you could think of. However, most technology and power transfer systems just break and short out under the load of trying to take that energy and put it out into something useful. He was using the opposing polarities of Solarians to manipulate the flow of time around the Shard, allowing energy to flow out slow enough to be useable. 
+
+[[Bosch]]'s theory about how they work is that they are entropy accelerators that accept  information and output energy and random noise. In the last few months though, he has felt the nagging feeling that there was something in that random noise, he felt like when looked at the output from the math drive sometimes it appeared as if there was some intention behind the noise. He does not know what the passing out was, he expects it happened as [[Qusari]] was there to throw off the Solarian balance. He is afraid what will happen now that the energy from the Shard may be unregulated now. He has a fear of the math drives now. 
+
+If they mention the guard they saw, he will become afraid but won't know what that means. 
+
+He knew [[Demitra DeMarco]]'s parents a long time ago.  He worked with them on engineering new output devices for math drives before he was run out of the Federation and took refuge in the Poleus Bloc. He doesn't know what what happened to her parents, only that he heard of their demise and tried to investigate a little in the Bloc because he thought something might be afoot but but came up short. All he knows is that the Bloc, and particularly the state Church, had asked him many questions about her parents when he first defected. That was a year or two before her parents were killed.  

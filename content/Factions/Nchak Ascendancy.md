@@ -1,0 +1,1 @@
+The government of the moon [[Nchak]]. Made of Trox, where [[Amos]] is from, follows [[Hylax]].

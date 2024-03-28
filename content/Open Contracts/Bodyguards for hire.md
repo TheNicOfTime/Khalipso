@@ -10,6 +10,8 @@ Transport Requirements: None
 
 Reputation: +5 [[The Poleus Bloc]]
 
+#contract 
+
 Boomerang's Introduction:
 
 The Thucalan Royal Family is hiring a cadre of bodyguards to supplement the royal guard during a diplomatic mission to meet the [[The Poleus Bloc]]. You will be guarding a diplomat from Thucala in coordination with the royal guard as you escort him to Poleus, to his meeting with the Bloc diplomats, and back to [[Thucala]]. 

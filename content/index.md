@@ -1,7 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
-Khalipso
+Khalipso 2.0
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

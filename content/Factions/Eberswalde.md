@@ -1,3 +1,4 @@
+#hidden 
 The intelligence service of the [[The Federation of United Planets|Federation]]. 
 
 ## Crimson Tide

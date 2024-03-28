@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome, Irregular
 ---
 Khalipso 2.0.1
 

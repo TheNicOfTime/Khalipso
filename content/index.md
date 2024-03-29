@@ -9,9 +9,9 @@ Your one-stop hub for contracts, intel, and gear. From [[The Federation of Unite
 ---
 # Open Contracts
 
-| Contracts              | Credits | Reputation | Client | "Transportation Requirements" |
-| ---------------------- | ------- | ---------- | ------ | ----------------------------- |
-| [[Return To Khalipso]] | N/A     | N/A        | N/A    | N/A                           |
+| Contracts              | Credits | Reputation | Client | Transportation Requirements |
+| ---------------------- | ------- | ---------- | ------ | --------------------------- |
+| [[Return To Khalipso]] | N/A     | N/A        | N/A    | N/A                         |
 
 ---
 Payouts taken through MercNet incur a 10% cost, with a MercNet guarantee of payment on time and reliably for a completed contract.

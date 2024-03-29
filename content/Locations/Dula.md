@@ -19,4 +19,18 @@ The planet is not rich in minerals, however there are large swathes of livable l
 
 One large archipelago in the north where the [[Empire of Ingin]], and two large continents to the south. 
 
-# Local Population
+### Iona
+
+Southwestern continent, where majority of population centers of the [[The Federation of United Planets|Federation]] are. The world's major spaceport is located near the most populous city, [[Falkirk]]. Only spaceport that allows civilian incoming and outgoing travel. 
+
+### Dunkeld
+
+Southeastern continent, humongous shipyards, miltech compounds and research bases are located. A superspeed rail network connects most of the continent to the port city of Airdrie on [[Dula#Iona|Iona]]. Miltech zaibatsu's control the entirety of the continent, and are constantly vying for more power and funding from the [[The Federation of United Planets|Federation]]. Many spaceports, but exclusively for government/corporate shipping. 
+
+### Inchmurrin
+
+Large island that exists as the only major landmass in the northern hemisphere. Home to the [[Empire of Ingin]], land is even lower in mineral resources than the rest of the world hence the [[The Federation of United Planets|Federation]] has reached an agreement with the MacAlpin dynasty to not travel to the island and let the civilization remain cutoff from the rest of the galaxy. The [[The Federation of United Planets|Federation]] has erected massive holo projectors around the island to hide the spaceship travel to and from the planet from the local populace.
+
+### The Cailleach
+
+Name for the ocean that covers a large amount of the planet, taken from the local populace. Extremely dangerous to traverse without [[Tech Levels|TL3+]] sonar disrupters attached to the vessel, as the ocean is infested with massive sea monsters that can consume most ships, including high tech vessels. Sonar disrupters discourage approach of these monsters, allowing travel. The [[Empire of Ingin]] has been stuck on [[Dula#Inchmurrin|Inchmurrin]] for centuries due to this. 

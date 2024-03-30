@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#0d1137", // deep space blue
-          lightgray: "#39FF14", // galaxy blue
+          lightgray: "#1f4287", // galaxy blue
           gray: "#278ea5", // nebula teal
           darkgray: "#21e6c1", // alien green
           dark: "#1f3c88", // starlight blue
@@ -39,7 +39,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#0d1137", // deep space blue
-          lightgray: "#39FF14", // galaxy blue
+          lightgray: "#1f4287", // galaxy blue
           gray: "#278ea5", // nebula teal
           darkgray: "#21e6c1", // alien green
           dark: "#1f3c88", // starlight blue

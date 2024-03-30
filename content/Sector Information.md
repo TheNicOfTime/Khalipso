@@ -6,7 +6,6 @@ Since the start of the conflict, a majority of planets/systems in the sector hav
 The Federation and the Bloc constantly vie for superiority using espionage, proxy wars, and accumulation of pre-scream artifacts and technology. Many of these jobs have been contracted out to adventurers, pirates, and other individuals who have no particular alliance but will work for anyone's money. These individuals are called **Irregulars**.
 
 This delicate balance has just been upset by an incursion of cosmic horror from a corner of the sector always considered wild space and impossible to traverse. 
-
 ## History
 
 ### Terran Mandate
@@ -48,3 +47,6 @@ The official state church of Poleus, as well as the intelligence service of the 
 ## [[Thucala]]
 
 A temperate planet that has been ruled by a democratically elected Royal Family for hundreds of years. A recent election has put a new [[Thucalan Royal Family]] in power that has shifted the planet's alignment toward the [[The Poleus Bloc|Bloc]], causing unrest on the planet.
+
+[Interactive Sector Map](https://sectorswithoutnumber.com/sector/oEJUdeMdbS4vPKWtttHq)
+<img src="https://github.com/TheNicOfTime/Khalipso/blob/v4/content/sector-map.jpg?raw=true">

@@ -1,30 +1,30 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4.0 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
-const config: QuartzConfig = {
-  configuration: {
-    pageTitle: "MercNet",
-    enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
-    theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+> /**
+>  * Quartz 4.0 Configuration
+>  *
+>  * See https://quartz.jzhao.xyz/configuration for more information.
+>  */
+> const config: QuartzConfig = {
+>   configuration: {
+>     pageTitle: "MercNet",
+>     enableSPA: true,
+>     enablePopovers: true,
+>     analytics: {
+>       provider: "plausible",
+>     },
+>     locale: "en-US",
+>     baseUrl: "quartz.jzhao.xyz",
+>     ignorePatterns: ["private", "templates", ".obsidian"],
+>     defaultDateType: "created",
+>     theme: {
+>       fontOrigin: "googleFonts",
+>       cdnCaching: true,
+>       typography: {
+>         header: "Orbitron", // Sci-fi style header font
+>         body: "Roboto Mono", // Monospace body font for a tech feel
+>         code: "Space Mono", // Another monospace font for code blocks
       },
       colors: {
         lightMode: {

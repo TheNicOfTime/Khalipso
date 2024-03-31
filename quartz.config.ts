@@ -28,22 +28,22 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#39FF14", // deep space blue
-          lightgray: "#1f4287", // galaxy blue
-          gray: "#278ea5", // nebula teal
-          darkgray: "#21e6c1", // alien green
-          dark: "#1f3c88", // starlight blue
-          secondary: "#f7217b", // neon pink
+          light: "#0D7377", // deep space teal
+          lightgray: "#14A098", // galaxy teal
+          gray: "#21E6C1", // nebula cyan
+          darkgray: "#32E0C4", // alien cyan
+          dark: "#393E46", // starlight dark gray
+          secondary: "#FF206E", // neon pink
           tertiary: "#6639a6", // cosmic purple
           highlight: "rgba(33, 230, 193, 0.15)", // translucent alien green
         },
         darkMode: {
-          light: "#39FF14", // deep space blue
-          lightgray: "#1f4287", // galaxy blue
-          gray: "#278ea5", // nebula teal
-          darkgray: "#21e6c1", // alien green
-          dark: "#1f3c88", // starlight blue
-          secondary: "#f7217b", // neon pink
+          light: "#32E0C4", // deep space cyan
+          lightgray: "#393E46", // galaxy dark gray
+          gray: "#0D7377", // nebula teal
+          darkgray: "#14A098", // alien teal
+          dark: "#222831", // starlight black
+          secondary: "#FF206E", // neon pink
           tertiary: "#6639a6", // cosmic purple
           highlight: "rgba(33, 230, 193, 0.15)", // translucent alien green
         },

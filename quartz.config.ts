@@ -28,24 +28,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#0D7377", // deep space teal
-          lightgray: "#14A098", // galaxy teal
-          gray: "#21E6C1", // nebula cyan
-          darkgray: "#32E0C4", // alien cyan
-          dark: "#393E46", // starlight dark gray
-          secondary: "#FF206E", // neon pink
-          tertiary: "#6639a6", // cosmic purple
-          highlight: "rgba(33, 230, 193, 0.15)", // translucent alien green
+          light: "#1B262C", // deep space blue
+          lightgray: "#0F4C75", // galaxy blue
+          gray: "#3282B8", // nebula blue
+          darkgray: "#BBE1FA", // alien light blue
+          dark: "#1B262C", // starlight dark blue
+          secondary: "#D7263D", // neon red
+          tertiary: "#3F88C5", // cosmic light blue
+          highlight: "rgba(187, 225, 250, 0.15)", // translucent alien light blue
         },
         darkMode: {
-          light: "#32E0C4", // deep space cyan
-          lightgray: "#393E46", // galaxy dark gray
-          gray: "#0D7377", // nebula teal
-          darkgray: "#14A098", // alien teal
-          dark: "#222831", // starlight black
-          secondary: "#FF206E", // neon pink
-          tertiary: "#6639a6", // cosmic purple
-          highlight: "rgba(33, 230, 193, 0.15)", // translucent alien green
+          light: "#BBE1FA", // deep space light blue
+          lightgray: "#1B262C", // galaxy dark blue
+          gray: "#0F4C75", // nebula blue
+          darkgray: "#3282B8", // alien blue
+          dark: "#1B262C", // starlight dark blue
+          secondary: "#D7263D", // neon red
+          tertiary: "#3F88C5", // cosmic light blue
+          highlight: "rgba(187, 225, 250, 0.15)", // translucent alien light blue
         },
       },
     },

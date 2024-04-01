@@ -28,24 +28,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#1B262C", // deep space blue
-          lightgray: "#0F4C75", // galaxy blue
-          gray: "#3282B8", // nebula blue
-          darkgray: "#BBE1FA", // alien light blue
-          dark: "#1B262C", // starlight dark blue
-          secondary: "#D7263D", // neon red
-          tertiary: "#3F88C5", // cosmic light blue
-          highlight: "rgba(187, 225, 250, 0.15)", // translucent alien light blue
+          light: "#2B2B2B",
+          lightgray: "#5A5A5A",
+          gray: "#7A7A7A",
+          darkgray: "#9A9A9A",
+          dark: "#BFBFBF",
+          secondary: "#FF4500",
+          tertiary: "#1E90FF",
+          highlight: "rgba(30, 144, 255, 0.15)",
         },
         darkMode: {
-          light: "#BBE1FA", // deep space light blue
-          lightgray: "#1B262C", // galaxy dark blue
-          gray: "#0F4C75", // nebula blue
-          darkgray: "#3282B8", // alien blue
-          dark: "#1B262C", // starlight dark blue
-          secondary: "#D7263D", // neon red
-          tertiary: "#3F88C5", // cosmic light blue
-          highlight: "rgba(187, 225, 250, 0.15)", // translucent alien light blue
+          light: "#BFBFBF",
+          lightgray: "#9A9A9A",
+          gray: "#7A7A7A",
+          darkgray: "#5A5A5A",
+          dark: "#2B2B2B",
+          secondary: "#FF4500",
+          tertiary: "#1E90FF",
+          highlight: "rgba(255, 69, 0, 0.15)",
         },
       },
     },
